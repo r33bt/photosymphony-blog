@@ -1,0 +1,741 @@
+{
+  "timestamp": "2025-08-15T07:56:58.875Z",
+  "original": {
+    "posts": 48,
+    "pages": 3,
+    "total": 51
+  },
+  "migrated": {
+    "posts": 48,
+    "pages": 3,
+    "total": 51
+  },
+  "missing": [],
+  "extra": [],
+  "urlMismatches": [],
+  "errors": [],
+  "originalPosts": [
+    {
+      "title": "Mastering the Hasselblad XPan: Tips and Tricks",
+      "slug": "mastering-hasselblad-xpan-tips-tricks",
+      "type": "post",
+      "date": "Fri, 20 Sep 2024 00:26:05 +0000",
+      "id": "114"
+    },
+    {
+      "title": "Equirectangular Projection Explained for Beginners",
+      "slug": "equirectangular-projection-explained-beginners",
+      "type": "post",
+      "date": "Fri, 20 Sep 2024 00:26:29 +0000",
+      "id": "124"
+    },
+    {
+      "title": "Avoiding Parallax Error in Panoramic Photography",
+      "slug": "avoiding-parallax-error-panoramic-photography",
+      "type": "post",
+      "date": "Fri, 20 Sep 2024 00:26:24 +0000",
+      "id": "125"
+    },
+    {
+      "title": "Mastering Photospheres: 360-Degree Photography on Your Smartphone",
+      "slug": "mastering-photospheres-360-degree-photography",
+      "type": "post",
+      "date": "Fri, 20 Sep 2024 00:26:16 +0000",
+      "id": "131"
+    },
+    {
+      "title": "Composition Techniques for Panoramic Photography",
+      "slug": "composition-techniques-panoramic-photography",
+      "type": "post",
+      "date": "Fri, 20 Sep 2024 00:25:20 +0000",
+      "id": "134"
+    },
+    {
+      "title": "Exposure Challenges in Panoramic Photography and How to Overcome Them",
+      "slug": "exposure-challenges-panoramic-photography-overcome",
+      "type": "post",
+      "date": "Fri, 20 Sep 2024 00:25:26 +0000",
+      "id": "135"
+    },
+    {
+      "title": "Maximizing Depth of Field in Panoramic Landscapes",
+      "slug": "maximizing-depth-field-panoramic-landscapes",
+      "type": "post",
+      "date": "Fri, 20 Sep 2024 00:25:30 +0000",
+      "id": "136"
+    },
+    {
+      "title": "Streamlining Your Panoramic Workflow: From Capture to Post-Processing",
+      "slug": "streamlining-panoramic-workflow-capture-post",
+      "type": "post",
+      "date": "Fri, 20 Sep 2024 00:25:34 +0000",
+      "id": "137"
+    },
+    {
+      "title": "Achieving Top Image Quality in Panoramic Photography",
+      "slug": "achieving-top-image-quality-panoramic",
+      "type": "post",
+      "date": "Fri, 20 Sep 2024 00:25:38 +0000",
+      "id": "138"
+    },
+    {
+      "title": "Choosing the Right Aspect Ratio for Your Panoramas",
+      "slug": "choosing-right-aspect-ratio-panoramas",
+      "type": "post",
+      "date": "Fri, 20 Sep 2024 00:25:42 +0000",
+      "id": "139"
+    },
+    {
+      "title": "Focal Length Considerations in Panoramic Photography",
+      "slug": "focal-length-considerations-panoramic-photography",
+      "type": "post",
+      "date": "Fri, 20 Sep 2024 00:25:47 +0000",
+      "id": "141"
+    },
+    {
+      "title": "Mobile Panoramas: Getting the Most from Your Smartphone",
+      "slug": "mobile-panoramas-getting-most-smartphone",
+      "type": "post",
+      "date": "Fri, 20 Sep 2024 00:25:51 +0000",
+      "id": "145"
+    },
+    {
+      "title": "Aerial Panoramas: Techniques for Drone Photography",
+      "slug": "aerial-panoramas-techniques-drone-photography",
+      "type": "post",
+      "date": "Fri, 20 Sep 2024 00:25:57 +0000",
+      "id": "146"
+    },
+    {
+      "title": "Underwater Panoramic Photography: Challenges and Solutions",
+      "slug": "underwater-panoramic-photography-challenges-solutions",
+      "type": "post",
+      "date": "Fri, 20 Sep 2024 00:25:16 +0000",
+      "id": "147"
+    },
+    {
+      "title": "Capturing the Night Sky in Panoramas",
+      "slug": "capturing-night-sky-panoramas",
+      "type": "post",
+      "date": "Fri, 20 Sep 2024 00:25:07 +0000",
+      "id": "148"
+    },
+    {
+      "title": "Creating Time-Lapse Panoramas: Merging Time and Space",
+      "slug": "creating-time-lapse-panoramas-merging",
+      "type": "post",
+      "date": "Fri, 20 Sep 2024 00:25:11 +0000",
+      "id": "149"
+    },
+    {
+      "title": "Panoramic Event Photography: Capturing the Whole Scene",
+      "slug": "panoramic-event-photography-capturing-scene",
+      "type": "post",
+      "date": "Fri, 20 Sep 2024 00:24:15 +0000",
+      "id": "157"
+    },
+    {
+      "title": "Panoramic Nature Photography: Capturing the Grand Landscape",
+      "slug": "panoramic-nature-photography-capturing-landscape",
+      "type": "post",
+      "date": "Fri, 20 Sep 2024 00:24:19 +0000",
+      "id": "159"
+    },
+    {
+      "title": "Street Photography with Panoramic Cameras",
+      "slug": "street-photography-with-panoramic-cameras",
+      "type": "post",
+      "date": "Fri, 20 Sep 2024 00:24:22 +0000",
+      "id": "160"
+    },
+    {
+      "title": "Panoramic Portrait Photography: Wide-Format People Pictures",
+      "slug": "panoramic-portrait-photography-wide-format",
+      "type": "post",
+      "date": "Fri, 20 Sep 2024 00:24:26 +0000",
+      "id": "161"
+    },
+    {
+      "title": "Architectural Photography with Panoramic Techniques",
+      "slug": "architectural-photography-with-panoramic-techniques",
+      "type": "post",
+      "date": "Fri, 20 Sep 2024 00:24:31 +0000",
+      "id": "162"
+    },
+    {
+      "title": "Sports Photography: Using Panoramas to Capture the Action",
+      "slug": "sports-photography-using-panoramas-capture",
+      "type": "post",
+      "date": "Fri, 20 Sep 2024 00:24:35 +0000",
+      "id": "163"
+    },
+    {
+      "title": "Panoramic Food Photography: Presenting Culinary Spreads",
+      "slug": "panoramic-food-photography-presenting-culinary",
+      "type": "post",
+      "date": "Fri, 20 Sep 2024 00:24:40 +0000",
+      "id": "164"
+    },
+    {
+      "title": "Panoramic Fashion Photography: Runway and Editorial Techniques",
+      "slug": "panoramic-fashion-photography-runway-editorial",
+      "type": "post",
+      "date": "Fri, 20 Sep 2024 00:24:48 +0000",
+      "id": "165"
+    },
+    {
+      "title": "Panoramic Travel Photography: Capturing the Essence of Place",
+      "slug": "panoramic-travel-photography-capturing-essence",
+      "type": "post",
+      "date": "Fri, 20 Sep 2024 00:24:10 +0000",
+      "id": "166"
+    },
+    {
+      "title": "Panoramic Wedding Photography: Preserving Wide-Angle Memories",
+      "slug": "panoramic-wedding-photography-preserving-memories",
+      "type": "post",
+      "date": "Fri, 20 Sep 2024 00:24:54 +0000",
+      "id": "167"
+    },
+    {
+      "title": "Panoramic Photography for Beginners: Essential Gear and Techniques",
+      "slug": "panoramic-photography-beginners-essential-gear",
+      "type": "post",
+      "date": "Fri, 20 Sep 2024 00:24:59 +0000",
+      "id": "172"
+    },
+    {
+      "title": "Panoramic Product Photography: Showcasing Items in Context",
+      "slug": "panoramic-product-photography-showcasing-items",
+      "type": "post",
+      "date": "Fri, 20 Sep 2024 00:24:05 +0000",
+      "id": "177"
+    },
+    {
+      "title": "Panoramic Photography in Astronomy: Capturing the Cosmos",
+      "slug": "panoramic-photography-astronomy-capturing-cosmos",
+      "type": "post",
+      "date": "Fri, 20 Sep 2024 00:24:01 +0000",
+      "id": "182"
+    },
+    {
+      "title": "Panoramic Industrial Photography: Documenting Large-Scale Projects",
+      "slug": "panoramic-industrial-photography-documenting-projects",
+      "type": "post",
+      "date": "Fri, 20 Sep 2024 00:23:58 +0000",
+      "id": "183"
+    },
+    {
+      "title": "Panoramic Techniques in Wildlife Photography",
+      "slug": "panoramic-techniques-wildlife-photography",
+      "type": "post",
+      "date": "Fri, 20 Sep 2024 00:23:53 +0000",
+      "id": "187"
+    },
+    {
+      "title": "Creating Panoramic Cityscapes: Techniques for Urban Photography",
+      "slug": "creating-panoramic-cityscapes-techniques-urban",
+      "type": "post",
+      "date": "Fri, 20 Sep 2024 00:23:50 +0000",
+      "id": "188"
+    },
+    {
+      "title": "Panoramic Techniques for Automotive Photography",
+      "slug": "panoramic-techniques-automotive-photography",
+      "type": "post",
+      "date": "Fri, 20 Sep 2024 00:23:46 +0000",
+      "id": "191"
+    },
+    {
+      "title": "Panoramic Photography in Extreme Environments: Challenges and Solutions",
+      "slug": "panoramic-photography-extreme-environments-challenges",
+      "type": "post",
+      "date": "Fri, 20 Sep 2024 00:23:43 +0000",
+      "id": "192"
+    },
+    {
+      "title": "Understanding 360-Degree Photography: From Capture to Viewing",
+      "slug": "understanding-360-degree-photography-capture",
+      "type": "post",
+      "date": "Fri, 20 Sep 2024 00:27:00 +0000",
+      "id": "115"
+    },
+    {
+      "title": "Cylindrical vs. Spherical Projections: Which to Choose and Why",
+      "slug": "cylindrical-vs-spherical-projections-choose",
+      "type": "post",
+      "date": "Fri, 20 Sep 2024 00:26:55 +0000",
+      "id": "118"
+    },
+    {
+      "title": "Fisheye Lenses in Panoramic Photography: Creative Applications",
+      "slug": "fisheye-lenses-panoramic-photography-creative",
+      "type": "post",
+      "date": "Fri, 20 Sep 2024 00:26:48 +0000",
+      "id": "121"
+    },
+    {
+      "title": "HDR Panoramas: Capturing High Dynamic Range in Wide Scenes",
+      "slug": "hdr-panoramas-capturing-high-dynamic",
+      "type": "post",
+      "date": "Fri, 20 Sep 2024 00:26:41 +0000",
+      "id": "122"
+    },
+    {
+      "title": "Gigapixel Panoramas: Pushing the Boundaries of Detail",
+      "slug": "gigapixel-panoramas-pushing-boundaries-detail",
+      "type": "post",
+      "date": "Fri, 20 Sep 2024 00:26:36 +0000",
+      "id": "123"
+    },
+    {
+      "title": "Famous Panoramic Photographs That Changed History",
+      "slug": "famous-panoramic-photographs-changed-history",
+      "type": "post",
+      "date": "Wed, 11 Dec 2024 22:30:16 +0000",
+      "id": "153"
+    },
+    {
+      "title": "Virtual Reality and Panoramic Photography: The Perfect Partnership",
+      "slug": "virtual-reality-and-panoramic-photography",
+      "type": "post",
+      "date": "Wed, 11 Dec 2024 03:30:16 +0000",
+      "id": "155"
+    },
+    {
+      "title": "Panoramic Photography for Real Estate: Showcasing Properties in Style",
+      "slug": "panoramic-photography-real-estate-showcasing",
+      "type": "post",
+      "date": "Thu, 12 Dec 2024 12:30:16 +0000",
+      "id": "156"
+    },
+    {
+      "title": "The Future of Panoramic Photography: Emerging Technologies and Trends",
+      "slug": "future-of-panoramic-photography-emerging",
+      "type": "post",
+      "date": "Sat, 14 Dec 2024 22:30:16 +0000",
+      "id": "171"
+    },
+    {
+      "title": "Building a Panoramic Photography Portfolio",
+      "slug": "building-panoramic-photography-portfolio",
+      "type": "post",
+      "date": "Sat, 07 Dec 2024 22:30:18 +0000",
+      "id": "173"
+    },
+    {
+      "title": "Panoramic Photography Competitions: What Judges Look For",
+      "slug": "panoramic-photography-competitions-judges-look",
+      "type": "post",
+      "date": "Sun, 08 Dec 2024 22:30:18 +0000",
+      "id": "174"
+    },
+    {
+      "title": "Using Panoramic Photography in Education and Training",
+      "slug": "using-panoramic-photography-education-training",
+      "type": "post",
+      "date": "Mon, 09 Dec 2024 02:30:18 +0000",
+      "id": "176"
+    },
+    {
+      "title": "Panoramic Photography for Conservation and Environmental Awareness",
+      "slug": "panoramic-photography-conservation-environmental-awareness",
+      "type": "post",
+      "date": "Sun, 08 Dec 2024 21:30:18 +0000",
+      "id": "180"
+    },
+    {
+      "title": "Panoramic Photography in Archaeology: Documenting Sites and Artifacts",
+      "slug": "panoramic-photography-archaeology-documenting-sites",
+      "type": "post",
+      "date": "Mon, 09 Dec 2024 22:30:18 +0000",
+      "id": "185"
+    }
+  ],
+  "originalPages": [
+    {
+      "title": "About",
+      "slug": "about",
+      "type": "page",
+      "date": "Sun, 08 Sep 2024 05:17:18 +0000",
+      "id": "2"
+    },
+    {
+      "title": "The Quick Guide to Panoramic Cameras in 2024",
+      "slug": "quick-guide-to-panoramic-cameras-in-2024",
+      "type": "page",
+      "date": "Thu, 19 Sep 2024 22:43:59 +0000",
+      "id": "109"
+    },
+    {
+      "title": "Contact",
+      "slug": "contact",
+      "type": "page",
+      "date": "Fri, 20 Sep 2024 04:15:24 +0000",
+      "id": "318"
+    }
+  ],
+  "migratedPosts": [
+    {
+      "file": "achieving-top-image-quality-panoramic.mdx",
+      "slug": "achieving-top-image-quality-panoramic",
+      "title": "Achieving Top Image Quality in Panoramic Photography",
+      "date": "2024-09-20",
+      "originalSlug": "achieving-top-image-quality-panoramic"
+    },
+    {
+      "file": "aerial-panoramas-techniques-drone-photography.mdx",
+      "slug": "aerial-panoramas-techniques-drone-photography",
+      "title": "Aerial Panoramas: Techniques for Drone Photography",
+      "date": "2024-09-20",
+      "originalSlug": "aerial-panoramas-techniques-drone-photography"
+    },
+    {
+      "file": "architectural-photography-with-panoramic-techniques.mdx",
+      "slug": "architectural-photography-with-panoramic-techniques",
+      "title": "Architectural Photography with Panoramic Techniques",
+      "date": "2024-09-20",
+      "originalSlug": "architectural-photography-with-panoramic-techniques"
+    },
+    {
+      "file": "avoiding-parallax-error-panoramic-photography.mdx",
+      "slug": "avoiding-parallax-error-panoramic-photography",
+      "title": "Avoiding Parallax Error in Panoramic Photography",
+      "date": "2024-09-20",
+      "originalSlug": "avoiding-parallax-error-panoramic-photography"
+    },
+    {
+      "file": "building-panoramic-photography-portfolio.mdx",
+      "slug": "building-panoramic-photography-portfolio",
+      "title": "Building a Panoramic Photography Portfolio",
+      "date": "2024-12-07",
+      "originalSlug": "building-panoramic-photography-portfolio"
+    },
+    {
+      "file": "capturing-night-sky-panoramas.mdx",
+      "slug": "capturing-night-sky-panoramas",
+      "title": "Capturing the Night Sky in Panoramas",
+      "date": "2024-09-20",
+      "originalSlug": "capturing-night-sky-panoramas"
+    },
+    {
+      "file": "choosing-right-aspect-ratio-panoramas.mdx",
+      "slug": "choosing-right-aspect-ratio-panoramas",
+      "title": "Choosing the Right Aspect Ratio for Your Panoramas",
+      "date": "2024-09-20",
+      "originalSlug": "choosing-right-aspect-ratio-panoramas"
+    },
+    {
+      "file": "composition-techniques-panoramic-photography.mdx",
+      "slug": "composition-techniques-panoramic-photography",
+      "title": "Composition Techniques for Panoramic Photography",
+      "date": "2024-09-20",
+      "originalSlug": "composition-techniques-panoramic-photography"
+    },
+    {
+      "file": "creating-panoramic-cityscapes-techniques-urban.mdx",
+      "slug": "creating-panoramic-cityscapes-techniques-urban",
+      "title": "Creating Panoramic Cityscapes: Techniques for Urban Photography",
+      "date": "2024-09-20",
+      "originalSlug": "creating-panoramic-cityscapes-techniques-urban"
+    },
+    {
+      "file": "creating-time-lapse-panoramas-merging.mdx",
+      "slug": "creating-time-lapse-panoramas-merging",
+      "title": "Creating Time-Lapse Panoramas: Merging Time and Space",
+      "date": "2024-09-20",
+      "originalSlug": "creating-time-lapse-panoramas-merging"
+    },
+    {
+      "file": "cylindrical-vs-spherical-projections-choose.mdx",
+      "slug": "cylindrical-vs-spherical-projections-choose",
+      "title": "Cylindrical vs. Spherical Projections: Which to Choose and Why",
+      "date": "2024-09-20",
+      "originalSlug": "cylindrical-vs-spherical-projections-choose"
+    },
+    {
+      "file": "equirectangular-projection-explained-beginners.mdx",
+      "slug": "equirectangular-projection-explained-beginners",
+      "title": "Equirectangular Projection Explained for Beginners",
+      "date": "2024-09-20",
+      "originalSlug": "equirectangular-projection-explained-beginners"
+    },
+    {
+      "file": "exposure-challenges-panoramic-photography-overcome.mdx",
+      "slug": "exposure-challenges-panoramic-photography-overcome",
+      "title": "Exposure Challenges in Panoramic Photography and How to Overcome Them",
+      "date": "2024-09-20",
+      "originalSlug": "exposure-challenges-panoramic-photography-overcome"
+    },
+    {
+      "file": "famous-panoramic-photographs-changed-history.mdx",
+      "slug": "famous-panoramic-photographs-changed-history",
+      "title": "Famous Panoramic Photographs That Changed History",
+      "date": "2024-12-11",
+      "originalSlug": "famous-panoramic-photographs-changed-history"
+    },
+    {
+      "file": "fisheye-lenses-panoramic-photography-creative.mdx",
+      "slug": "fisheye-lenses-panoramic-photography-creative",
+      "title": "Fisheye Lenses in Panoramic Photography: Creative Applications",
+      "date": "2024-09-20",
+      "originalSlug": "fisheye-lenses-panoramic-photography-creative"
+    },
+    {
+      "file": "focal-length-considerations-panoramic-photography.mdx",
+      "slug": "focal-length-considerations-panoramic-photography",
+      "title": "Focal Length Considerations in Panoramic Photography",
+      "date": "2024-09-20",
+      "originalSlug": "focal-length-considerations-panoramic-photography"
+    },
+    {
+      "file": "future-of-panoramic-photography-emerging.mdx",
+      "slug": "future-of-panoramic-photography-emerging",
+      "title": "The Future of Panoramic Photography: Emerging Technologies and Trends",
+      "date": "2024-12-14",
+      "originalSlug": "future-of-panoramic-photography-emerging"
+    },
+    {
+      "file": "gigapixel-panoramas-pushing-boundaries-detail.mdx",
+      "slug": "gigapixel-panoramas-pushing-boundaries-detail",
+      "title": "Gigapixel Panoramas: Pushing the Boundaries of Detail",
+      "date": "2024-09-20",
+      "originalSlug": "gigapixel-panoramas-pushing-boundaries-detail"
+    },
+    {
+      "file": "hdr-panoramas-capturing-high-dynamic.mdx",
+      "slug": "hdr-panoramas-capturing-high-dynamic",
+      "title": "HDR Panoramas: Capturing High Dynamic Range in Wide Scenes",
+      "date": "2024-09-20",
+      "originalSlug": "hdr-panoramas-capturing-high-dynamic"
+    },
+    {
+      "file": "mastering-hasselblad-xpan-tips-tricks.mdx",
+      "slug": "mastering-hasselblad-xpan-tips-tricks",
+      "title": "Mastering the Hasselblad XPan: Tips and Tricks",
+      "date": "2024-09-20",
+      "originalSlug": "mastering-hasselblad-xpan-tips-tricks"
+    },
+    {
+      "file": "mastering-photospheres-360-degree-photography.mdx",
+      "slug": "mastering-photospheres-360-degree-photography",
+      "title": "Mastering Photospheres: 360-Degree Photography on Your Smartphone",
+      "date": "2024-09-20",
+      "originalSlug": "mastering-photospheres-360-degree-photography"
+    },
+    {
+      "file": "maximizing-depth-field-panoramic-landscapes.mdx",
+      "slug": "maximizing-depth-field-panoramic-landscapes",
+      "title": "Maximizing Depth of Field in Panoramic Landscapes",
+      "date": "2024-09-20",
+      "originalSlug": "maximizing-depth-field-panoramic-landscapes"
+    },
+    {
+      "file": "mobile-panoramas-getting-most-smartphone.mdx",
+      "slug": "mobile-panoramas-getting-most-smartphone",
+      "title": "Mobile Panoramas: Getting the Most from Your Smartphone",
+      "date": "2024-09-20",
+      "originalSlug": "mobile-panoramas-getting-most-smartphone"
+    },
+    {
+      "file": "panoramic-event-photography-capturing-scene.mdx",
+      "slug": "panoramic-event-photography-capturing-scene",
+      "title": "Panoramic Event Photography: Capturing the Whole Scene",
+      "date": "2024-09-20",
+      "originalSlug": "panoramic-event-photography-capturing-scene"
+    },
+    {
+      "file": "panoramic-fashion-photography-runway-editorial.mdx",
+      "slug": "panoramic-fashion-photography-runway-editorial",
+      "title": "Panoramic Fashion Photography: Runway and Editorial Techniques",
+      "date": "2024-09-20",
+      "originalSlug": "panoramic-fashion-photography-runway-editorial"
+    },
+    {
+      "file": "panoramic-food-photography-presenting-culinary.mdx",
+      "slug": "panoramic-food-photography-presenting-culinary",
+      "title": "Panoramic Food Photography: Presenting Culinary Spreads",
+      "date": "2024-09-20",
+      "originalSlug": "panoramic-food-photography-presenting-culinary"
+    },
+    {
+      "file": "panoramic-industrial-photography-documenting-projects.mdx",
+      "slug": "panoramic-industrial-photography-documenting-projects",
+      "title": "Panoramic Industrial Photography: Documenting Large-Scale Projects",
+      "date": "2024-09-20",
+      "originalSlug": "panoramic-industrial-photography-documenting-projects"
+    },
+    {
+      "file": "panoramic-nature-photography-capturing-landscape.mdx",
+      "slug": "panoramic-nature-photography-capturing-landscape",
+      "title": "Panoramic Nature Photography: Capturing the Grand Landscape",
+      "date": "2024-09-20",
+      "originalSlug": "panoramic-nature-photography-capturing-landscape"
+    },
+    {
+      "file": "panoramic-photography-archaeology-documenting-sites.mdx",
+      "slug": "panoramic-photography-archaeology-documenting-sites",
+      "title": "Panoramic Photography in Archaeology: Documenting Sites and Artifacts",
+      "date": "2024-12-09",
+      "originalSlug": "panoramic-photography-archaeology-documenting-sites"
+    },
+    {
+      "file": "panoramic-photography-astronomy-capturing-cosmos.mdx",
+      "slug": "panoramic-photography-astronomy-capturing-cosmos",
+      "title": "Panoramic Photography in Astronomy: Capturing the Cosmos",
+      "date": "2024-09-20",
+      "originalSlug": "panoramic-photography-astronomy-capturing-cosmos"
+    },
+    {
+      "file": "panoramic-photography-beginners-essential-gear.mdx",
+      "slug": "panoramic-photography-beginners-essential-gear",
+      "title": "Panoramic Photography for Beginners: Essential Gear and Techniques",
+      "date": "2024-09-20",
+      "originalSlug": "panoramic-photography-beginners-essential-gear"
+    },
+    {
+      "file": "panoramic-photography-competitions-judges-look.mdx",
+      "slug": "panoramic-photography-competitions-judges-look",
+      "title": "Panoramic Photography Competitions: What Judges Look For",
+      "date": "2024-12-08",
+      "originalSlug": "panoramic-photography-competitions-judges-look"
+    },
+    {
+      "file": "panoramic-photography-conservation-environmental-awareness.mdx",
+      "slug": "panoramic-photography-conservation-environmental-awareness",
+      "title": "Panoramic Photography for Conservation and Environmental Awareness",
+      "date": "2024-12-08",
+      "originalSlug": "panoramic-photography-conservation-environmental-awareness"
+    },
+    {
+      "file": "panoramic-photography-extreme-environments-challenges.mdx",
+      "slug": "panoramic-photography-extreme-environments-challenges",
+      "title": "Panoramic Photography in Extreme Environments: Challenges and Solutions",
+      "date": "2024-09-20",
+      "originalSlug": "panoramic-photography-extreme-environments-challenges"
+    },
+    {
+      "file": "panoramic-photography-real-estate-showcasing.mdx",
+      "slug": "panoramic-photography-real-estate-showcasing",
+      "title": "Panoramic Photography for Real Estate: Showcasing Properties in Style",
+      "date": "2024-12-12",
+      "originalSlug": "panoramic-photography-real-estate-showcasing"
+    },
+    {
+      "file": "panoramic-portrait-photography-wide-format.mdx",
+      "slug": "panoramic-portrait-photography-wide-format",
+      "title": "Panoramic Portrait Photography: Wide-Format People Pictures",
+      "date": "2024-09-20",
+      "originalSlug": "panoramic-portrait-photography-wide-format"
+    },
+    {
+      "file": "panoramic-product-photography-showcasing-items.mdx",
+      "slug": "panoramic-product-photography-showcasing-items",
+      "title": "Panoramic Product Photography: Showcasing Items in Context",
+      "date": "2024-09-20",
+      "originalSlug": "panoramic-product-photography-showcasing-items"
+    },
+    {
+      "file": "panoramic-techniques-automotive-photography.mdx",
+      "slug": "panoramic-techniques-automotive-photography",
+      "title": "Panoramic Techniques for Automotive Photography",
+      "date": "2024-09-20",
+      "originalSlug": "panoramic-techniques-automotive-photography"
+    },
+    {
+      "file": "panoramic-techniques-wildlife-photography.mdx",
+      "slug": "panoramic-techniques-wildlife-photography",
+      "title": "Panoramic Techniques in Wildlife Photography",
+      "date": "2024-09-20",
+      "originalSlug": "panoramic-techniques-wildlife-photography"
+    },
+    {
+      "file": "panoramic-travel-photography-capturing-essence.mdx",
+      "slug": "panoramic-travel-photography-capturing-essence",
+      "title": "Panoramic Travel Photography: Capturing the Essence of Place",
+      "date": "2024-09-20",
+      "originalSlug": "panoramic-travel-photography-capturing-essence"
+    },
+    {
+      "file": "panoramic-wedding-photography-preserving-memories.mdx",
+      "slug": "panoramic-wedding-photography-preserving-memories",
+      "title": "Panoramic Wedding Photography: Preserving Wide-Angle Memories",
+      "date": "2024-09-20",
+      "originalSlug": "panoramic-wedding-photography-preserving-memories"
+    },
+    {
+      "file": "sports-photography-using-panoramas-capture.mdx",
+      "slug": "sports-photography-using-panoramas-capture",
+      "title": "Sports Photography: Using Panoramas to Capture the Action",
+      "date": "2024-09-20",
+      "originalSlug": "sports-photography-using-panoramas-capture"
+    },
+    {
+      "file": "streamlining-panoramic-workflow-capture-post.mdx",
+      "slug": "streamlining-panoramic-workflow-capture-post",
+      "title": "Streamlining Your Panoramic Workflow: From Capture to Post-Processing",
+      "date": "2024-09-20",
+      "originalSlug": "streamlining-panoramic-workflow-capture-post"
+    },
+    {
+      "file": "street-photography-with-panoramic-cameras.mdx",
+      "slug": "street-photography-with-panoramic-cameras",
+      "title": "Street Photography with Panoramic Cameras",
+      "date": "2024-09-20",
+      "originalSlug": "street-photography-with-panoramic-cameras"
+    },
+    {
+      "file": "understanding-360-degree-photography-capture.mdx",
+      "slug": "understanding-360-degree-photography-capture",
+      "title": "Understanding 360-Degree Photography: From Capture to Viewing",
+      "date": "2024-09-20",
+      "originalSlug": "understanding-360-degree-photography-capture"
+    },
+    {
+      "file": "underwater-panoramic-photography-challenges-solutions.mdx",
+      "slug": "underwater-panoramic-photography-challenges-solutions",
+      "title": "Underwater Panoramic Photography: Challenges and Solutions",
+      "date": "2024-09-20",
+      "originalSlug": "underwater-panoramic-photography-challenges-solutions"
+    },
+    {
+      "file": "using-panoramic-photography-education-training.mdx",
+      "slug": "using-panoramic-photography-education-training",
+      "title": "Using Panoramic Photography in Education and Training",
+      "date": "2024-12-09",
+      "originalSlug": "using-panoramic-photography-education-training"
+    },
+    {
+      "file": "virtual-reality-and-panoramic-photography.mdx",
+      "slug": "virtual-reality-and-panoramic-photography",
+      "title": "Virtual Reality and Panoramic Photography: The Perfect Partnership",
+      "date": "2024-12-11",
+      "originalSlug": "virtual-reality-and-panoramic-photography"
+    }
+  ],
+  "migratedPages": [
+    {
+      "file": "about.mdx",
+      "slug": "about",
+      "title": "About",
+      "date": "2024-09-08",
+      "originalSlug": "about"
+    },
+    {
+      "file": "contact.mdx",
+      "slug": "contact",
+      "title": "Contact",
+      "date": "2024-09-20",
+      "originalSlug": "contact"
+    },
+    {
+      "file": "quick-guide-to-panoramic-cameras-in-2024.mdx",
+      "slug": "quick-guide-to-panoramic-cameras-in-2024",
+      "title": "The Quick Guide to Panoramic Cameras in 2024",
+      "date": "2024-09-19",
+      "originalSlug": "quick-guide-to-panoramic-cameras-in-2024"
+    }
+  ],
+  "xmlPath": "C:\\Users\\user\\alphadev2\\migration2\\wp-export\\photosymphony-export.xml",
+  "verificationDate": "2025-08-15T07:56:59.288Z"
+}
