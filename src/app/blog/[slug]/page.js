@@ -3,6 +3,7 @@ import path from 'path';
 import matter from 'gray-matter';
 import { marked } from 'marked';
 import Link from 'next/link';
+import { CategoryBadge, TagBadge } from '../../../components/CategoryTag';
 
 // Generate static params for all blog posts
 export async function generateStaticParams() {
@@ -96,6 +97,41 @@ export default async function BlogPost({ params }) {
                     month: 'long',
                     day: 'numeric'
                   })}
+                </div>
+              )}
+              
+              {/* Categories and Tags */}
+              {(frontMatter.categories?.length > 0 || frontMatter.tags?.length > 0) && (
+                <div className="mb-6">
+                  {frontMatter.categories?.length > 0 && (
+                    <div className="mb-3">
+                      <span className="text-sm font-medium text-gray-600 mr-2">Categories:</span>
+                      {frontMatter.categories.map(categorySlug => (
+                        <CategoryBadge 
+                          key={categorySlug} 
+                          category={{ 
+                            slug: categorySlug, 
+                            name: categorySlug.replace(/-/g, ' ').split(' ').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ') 
+                          }}
+                        />
+                      ))}
+                    </div>
+                  )}
+                  
+                  {frontMatter.tags?.length > 0 && (
+                    <div>
+                      <span className="text-sm font-medium text-gray-600 mr-2">Tags:</span>
+                      {frontMatter.tags.map(tagSlug => (
+                        <TagBadge 
+                          key={tagSlug} 
+                          tag={{ 
+                            slug: tagSlug, 
+                            name: tagSlug.replace(/-/g, ' ').split(' ').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ') 
+                          }}
+                        />
+                      ))}
+                    </div>
+                  )}
                 </div>
               )}
               

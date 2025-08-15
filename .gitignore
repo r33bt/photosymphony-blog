@@ -6,3 +6,4 @@ out/
 wp-config.json
 *.log
 .DS_Store
+.vercel

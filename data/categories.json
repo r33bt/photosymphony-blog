@@ -1,0 +1,31 @@
+{
+  "categories": [
+    {
+      "slug": "panoramic-photography-techniques",
+      "name": "Panoramic Photography Techniques",
+      "count": 39
+    },
+    {
+      "slug": "panoramic-applications",
+      "name": "Panoramic Applications",
+      "count": 16
+    },
+    {
+      "slug": "panoramic-post-processing",
+      "name": "Panoramic Post-Processing",
+      "count": 8
+    },
+    {
+      "slug": "panoramic-camera-gear",
+      "name": "Panoramic Camera Gear",
+      "count": 3
+    },
+    {
+      "slug": "panoramic-history-and-culture",
+      "name": "Panoramic History and Culture",
+      "count": 1
+    }
+  ],
+  "totalCategories": 5,
+  "generatedAt": "2025-08-15T08:23:07.379Z"
+}

@@ -1,0 +1,553 @@
+{
+  "posts": [
+    {
+      "title": "Mastering the Hasselblad XPan: Tips and Tricks",
+      "slug": "mastering-hasselblad-xpan-tips-tricks",
+      "categories": [
+        "panoramic-camera-gear",
+        "panoramic-photography-techniques"
+      ],
+      "tags": [
+        "composition",
+        "exposure",
+        "hasselblad-xpan"
+      ]
+    },
+    {
+      "title": "Equirectangular Projection Explained for Beginners",
+      "slug": "equirectangular-projection-explained-beginners",
+      "categories": [
+        "panoramic-photography-techniques",
+        "panoramic-post-processing"
+      ],
+      "tags": [
+        "equirectangular-projection"
+      ]
+    },
+    {
+      "title": "Avoiding Parallax Error in Panoramic Photography",
+      "slug": "avoiding-parallax-error-panoramic-photography",
+      "categories": [
+        "panoramic-photography-techniques"
+      ],
+      "tags": [
+        "nodal-point",
+        "parallax-error"
+      ]
+    },
+    {
+      "title": "Mastering Photospheres: 360-Degree Photography on Your Smartphone",
+      "slug": "mastering-photospheres-360-degree-photography",
+      "categories": [
+        "panoramic-applications",
+        "panoramic-photography-techniques"
+      ],
+      "tags": [
+        "mobile-panoramas",
+        "photosphere"
+      ]
+    },
+    {
+      "title": "Composition Techniques for Panoramic Photography",
+      "slug": "composition-techniques-panoramic-photography",
+      "categories": [
+        "panoramic-photography-techniques"
+      ],
+      "tags": [
+        "aspect-ratio",
+        "composition"
+      ]
+    },
+    {
+      "title": "Exposure Challenges in Panoramic Photography and How to Overcome Them",
+      "slug": "exposure-challenges-panoramic-photography-overcome",
+      "categories": [
+        "panoramic-photography-techniques"
+      ],
+      "tags": [
+        "exposure",
+        "hdr-panoramas"
+      ]
+    },
+    {
+      "title": "Maximizing Depth of Field in Panoramic Landscapes",
+      "slug": "maximizing-depth-field-panoramic-landscapes",
+      "categories": [
+        "panoramic-photography-techniques"
+      ],
+      "tags": [
+        "depth-of-field",
+        "wide-angle-lenses"
+      ]
+    },
+    {
+      "title": "Streamlining Your Panoramic Workflow: From Capture to Post-Processing",
+      "slug": "streamlining-panoramic-workflow-capture-post",
+      "categories": [
+        "panoramic-photography-techniques",
+        "panoramic-post-processing"
+      ],
+      "tags": [
+        "panoramic-workflow",
+        "stitching-software"
+      ]
+    },
+    {
+      "title": "Achieving Top Image Quality in Panoramic Photography",
+      "slug": "achieving-top-image-quality-panoramic",
+      "categories": [
+        "panoramic-photography-techniques",
+        "panoramic-post-processing"
+      ],
+      "tags": [
+        "gigapixel-photography",
+        "image-quality"
+      ]
+    },
+    {
+      "title": "Choosing the Right Aspect Ratio for Your Panoramas",
+      "slug": "choosing-right-aspect-ratio-panoramas",
+      "categories": [
+        "panoramic-photography-techniques",
+        "panoramic-post-processing"
+      ],
+      "tags": [
+        "aspect-ratio",
+        "panoramic-cropping"
+      ]
+    },
+    {
+      "title": "Focal Length Considerations in Panoramic Photography",
+      "slug": "focal-length-considerations-panoramic-photography",
+      "categories": [
+        "panoramic-photography-techniques"
+      ],
+      "tags": [
+        "focal-length",
+        "wide-angle-lenses"
+      ]
+    },
+    {
+      "title": "Mobile Panoramas: Getting the Most from Your Smartphone",
+      "slug": "mobile-panoramas-getting-most-smartphone",
+      "categories": [
+        "panoramic-applications",
+        "panoramic-photography-techniques"
+      ],
+      "tags": [
+        "mobile-panoramas",
+        "photosphere"
+      ]
+    },
+    {
+      "title": "Aerial Panoramas: Techniques for Drone Photography",
+      "slug": "aerial-panoramas-techniques-drone-photography",
+      "categories": [
+        "panoramic-photography-techniques"
+      ],
+      "tags": [
+        "360-degree-photography",
+        "aerial-panoramas"
+      ]
+    },
+    {
+      "title": "Underwater Panoramic Photography: Challenges and Solutions",
+      "slug": "underwater-panoramic-photography-challenges-solutions",
+      "categories": [
+        "panoramic-photography-techniques"
+      ],
+      "tags": [
+        "panoramic-accessories",
+        "underwater-panoramas"
+      ]
+    },
+    {
+      "title": "Capturing the Night Sky in Panoramas",
+      "slug": "capturing-night-sky-panoramas",
+      "categories": [
+        "panoramic-photography-techniques"
+      ],
+      "tags": [
+        "exposure",
+        "night-panoramas"
+      ]
+    },
+    {
+      "title": "Creating Time-Lapse Panoramas: Merging Time and Space",
+      "slug": "creating-time-lapse-panoramas-merging",
+      "categories": [
+        "panoramic-applications",
+        "panoramic-photography-techniques"
+      ],
+      "tags": [
+        "panoramic-workflow",
+        "time-lapse-panoramas"
+      ]
+    },
+    {
+      "title": "Panoramic Event Photography: Capturing the Whole Scene",
+      "slug": "panoramic-event-photography-capturing-scene",
+      "categories": [
+        "panoramic-applications",
+        "panoramic-photography-techniques"
+      ],
+      "tags": [
+        "composition",
+        "panoramic-workflow"
+      ]
+    },
+    {
+      "title": "Panoramic Nature Photography: Capturing the Grand Landscape",
+      "slug": "panoramic-nature-photography-capturing-landscape",
+      "categories": [
+        "panoramic-photography-techniques"
+      ],
+      "tags": [
+        "composition",
+        "wide-angle-lenses"
+      ]
+    },
+    {
+      "title": "Street Photography with Panoramic Cameras",
+      "slug": "street-photography-with-panoramic-cameras",
+      "categories": [
+        "panoramic-photography-techniques"
+      ],
+      "tags": [
+        "composition",
+        "hasselblad-xpan"
+      ]
+    },
+    {
+      "title": "Panoramic Portrait Photography: Wide-Format People Pictures",
+      "slug": "panoramic-portrait-photography-wide-format",
+      "categories": [
+        "panoramic-photography-techniques"
+      ],
+      "tags": [
+        "composition",
+        "panoramic-film-cameras"
+      ]
+    },
+    {
+      "title": "Architectural Photography with Panoramic Techniques",
+      "slug": "architectural-photography-with-panoramic-techniques",
+      "categories": [
+        "panoramic-applications",
+        "panoramic-photography-techniques"
+      ],
+      "tags": [
+        "distortion-correction",
+        "wide-angle-lenses"
+      ]
+    },
+    {
+      "title": "Sports Photography: Using Panoramas to Capture the Action",
+      "slug": "sports-photography-using-panoramas-capture",
+      "categories": [
+        "panoramic-photography-techniques"
+      ],
+      "tags": [
+        "exposure",
+        "panoramic-workflow"
+      ]
+    },
+    {
+      "title": "Panoramic Food Photography: Presenting Culinary Spreads",
+      "slug": "panoramic-food-photography-presenting-culinary",
+      "categories": [
+        "panoramic-photography-techniques"
+      ],
+      "tags": [
+        "composition",
+        "lighting"
+      ]
+    },
+    {
+      "title": "Panoramic Fashion Photography: Runway and Editorial Techniques",
+      "slug": "panoramic-fashion-photography-runway-editorial",
+      "categories": [
+        "panoramic-photography-techniques"
+      ],
+      "tags": [
+        "composition",
+        "panoramic-film-cameras"
+      ]
+    },
+    {
+      "title": "Panoramic Travel Photography: Capturing the Essence of Place",
+      "slug": "panoramic-travel-photography-capturing-essence",
+      "categories": [
+        "panoramic-photography-techniques"
+      ],
+      "tags": [
+        "composition",
+        "panoramic-storytelling"
+      ]
+    },
+    {
+      "title": "Panoramic Wedding Photography: Preserving Wide-Angle Memories",
+      "slug": "panoramic-wedding-photography-preserving-memories",
+      "categories": [
+        "panoramic-applications",
+        "panoramic-photography-techniques"
+      ],
+      "tags": [
+        "composition",
+        "panoramic-printing"
+      ]
+    },
+    {
+      "title": "Panoramic Photography for Beginners: Essential Gear and Techniques",
+      "slug": "panoramic-photography-beginners-essential-gear",
+      "categories": [
+        "panoramic-camera-gear",
+        "panoramic-photography-techniques"
+      ],
+      "tags": [
+        "panoramic-tripod-heads",
+        "wide-angle-lenses"
+      ]
+    },
+    {
+      "title": "Panoramic Product Photography: Showcasing Items in Context",
+      "slug": "panoramic-product-photography-showcasing-items",
+      "categories": [
+        "panoramic-applications",
+        "panoramic-photography-techniques"
+      ],
+      "tags": [
+        "composition",
+        "lighting"
+      ]
+    },
+    {
+      "title": "Panoramic Photography in Astronomy: Capturing the Cosmos",
+      "slug": "panoramic-photography-astronomy-capturing-cosmos",
+      "categories": [
+        "panoramic-photography-techniques"
+      ],
+      "tags": [
+        "equirectangular-projection",
+        "night-panoramas"
+      ]
+    },
+    {
+      "title": "Panoramic Industrial Photography: Documenting Large-Scale Projects",
+      "slug": "panoramic-industrial-photography-documenting-projects",
+      "categories": [
+        "panoramic-applications",
+        "panoramic-photography-techniques"
+      ],
+      "tags": [
+        "gigapixel-photography",
+        "wide-angle-lenses"
+      ]
+    },
+    {
+      "title": "Panoramic Techniques in Wildlife Photography",
+      "slug": "panoramic-techniques-wildlife-photography",
+      "categories": [
+        "panoramic-photography-techniques"
+      ],
+      "tags": [
+        "composition",
+        "panoramic-tripod-heads"
+      ]
+    },
+    {
+      "title": "Creating Panoramic Cityscapes: Techniques for Urban Photography",
+      "slug": "creating-panoramic-cityscapes-techniques-urban",
+      "categories": [
+        "panoramic-photography-techniques"
+      ],
+      "tags": [
+        "hdr-panoramas",
+        "night-panoramas"
+      ]
+    },
+    {
+      "title": "Panoramic Techniques for Automotive Photography",
+      "slug": "panoramic-techniques-automotive-photography",
+      "categories": [
+        "panoramic-photography-techniques"
+      ],
+      "tags": [
+        "composition",
+        "lighting"
+      ]
+    },
+    {
+      "title": "Panoramic Photography in Extreme Environments: Challenges and Solutions",
+      "slug": "panoramic-photography-extreme-environments-challenges",
+      "categories": [
+        "panoramic-photography-techniques"
+      ],
+      "tags": [
+        "exposure",
+        "panoramic-accessories"
+      ]
+    },
+    {
+      "title": "Understanding 360-Degree Photography: From Capture to Viewing",
+      "slug": "understanding-360-degree-photography-capture",
+      "categories": [
+        "panoramic-photography-techniques",
+        "panoramic-post-processing"
+      ],
+      "tags": [
+        "360-degree-photography",
+        "spherical-panoramas"
+      ]
+    },
+    {
+      "title": "Cylindrical vs. Spherical Projections: Which to Choose and Why",
+      "slug": "cylindrical-vs-spherical-projections-choose",
+      "categories": [
+        "panoramic-photography-techniques",
+        "panoramic-post-processing"
+      ],
+      "tags": [
+        "cylindrical-projection",
+        "spherical-panoramas"
+      ]
+    },
+    {
+      "title": "Fisheye Lenses in Panoramic Photography: Creative Applications",
+      "slug": "fisheye-lenses-panoramic-photography-creative",
+      "categories": [
+        "panoramic-photography-techniques"
+      ],
+      "tags": [
+        "composition",
+        "fisheye-lenses"
+      ]
+    },
+    {
+      "title": "HDR Panoramas: Capturing High Dynamic Range in Wide Scenes",
+      "slug": "hdr-panoramas-capturing-high-dynamic",
+      "categories": [
+        "panoramic-photography-techniques",
+        "panoramic-post-processing"
+      ],
+      "tags": [
+        "exposure",
+        "hdr-panoramas"
+      ]
+    },
+    {
+      "title": "Gigapixel Panoramas: Pushing the Boundaries of Detail",
+      "slug": "gigapixel-panoramas-pushing-boundaries-detail",
+      "categories": [
+        "panoramic-photography-techniques",
+        "panoramic-post-processing"
+      ],
+      "tags": [
+        "gigapixel-photography",
+        "image-quality"
+      ]
+    },
+    {
+      "title": "Famous Panoramic Photographs That Changed History",
+      "slug": "famous-panoramic-photographs-changed-history",
+      "categories": [
+        "panoramic-history-and-culture"
+      ],
+      "tags": [
+        "panoramic-art",
+        "panoramic-storytelling"
+      ]
+    },
+    {
+      "title": "Virtual Reality and Panoramic Photography: The Perfect Partnership",
+      "slug": "virtual-reality-and-panoramic-photography",
+      "categories": [
+        "panoramic-applications"
+      ],
+      "tags": [
+        "360-degree-photography",
+        "vr-photography"
+      ]
+    },
+    {
+      "title": "Panoramic Photography for Real Estate: Showcasing Properties in Style",
+      "slug": "panoramic-photography-real-estate-showcasing",
+      "categories": [
+        "panoramic-applications"
+      ],
+      "tags": [
+        "virtual-tours",
+        "wide-angle-lenses"
+      ]
+    },
+    {
+      "title": "The Future of Panoramic Photography: Emerging Technologies and Trends",
+      "slug": "future-of-panoramic-photography-emerging",
+      "categories": [
+        "panoramic-applications",
+        "panoramic-camera-gear"
+      ],
+      "tags": [
+        "gigapixel-photography",
+        "vr-photography"
+      ]
+    },
+    {
+      "title": "Building a Panoramic Photography Portfolio",
+      "slug": "building-panoramic-photography-portfolio",
+      "categories": [
+        "panoramic-applications"
+      ],
+      "tags": [
+        "panoramic-image-viewers",
+        "panoramic-storytelling"
+      ]
+    },
+    {
+      "title": "Panoramic Photography Competitions: What Judges Look For",
+      "slug": "panoramic-photography-competitions-judges-look",
+      "categories": [
+        "panoramic-applications"
+      ],
+      "tags": [
+        "composition",
+        "image-quality"
+      ]
+    },
+    {
+      "title": "Using Panoramic Photography in Education and Training",
+      "slug": "using-panoramic-photography-education-training",
+      "categories": [
+        "panoramic-applications"
+      ],
+      "tags": [
+        "360-degree-photography",
+        "virtual-tours"
+      ]
+    },
+    {
+      "title": "Panoramic Photography for Conservation and Environmental Awareness",
+      "slug": "panoramic-photography-conservation-environmental-awareness",
+      "categories": [
+        "panoramic-applications"
+      ],
+      "tags": [
+        "aerial-panoramas",
+        "panoramic-storytelling"
+      ]
+    },
+    {
+      "title": "Panoramic Photography in Archaeology: Documenting Sites and Artifacts",
+      "slug": "panoramic-photography-archaeology-documenting-sites",
+      "categories": [
+        "panoramic-applications"
+      ],
+      "tags": [
+        "gigapixel-photography",
+        "virtual-tours"
+      ]
+    }
+  ],
+  "totalPosts": 48,
+  "generatedAt": "2025-08-15T08:23:07.383Z"
+}
