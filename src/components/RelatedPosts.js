@@ -74,7 +74,7 @@ export default function RelatedPosts({ currentSlug, categories }) {
           ...post,
           excerpt: generateExcerpt(content, 120)
         };
-      } catch (error) {
+      } catch {
         return {
           ...post,
           excerpt: 'Discover expert techniques and insights for panoramic photography.'
